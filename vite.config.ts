@@ -13,5 +13,9 @@ export default defineConfig({
   },
   build: {
     outDir: "dist",
+    // Asegúrate de que Vite use el index.html como entrada
+    rollupOptions: {
+      input: path.resolve(__dirname, "index.html"),
+    },
   },
 });
