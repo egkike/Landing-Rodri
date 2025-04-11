@@ -8,7 +8,7 @@ const PersonalLandingPage: React.FC = () => {
   const personalInfo = {
     name: "Rodrigo Garcia",
     description:
-      "Emprendedor | Apasionado del ciclismo, la cocina y los viajes.",
+      "Emprendedor | Apasionado del ciclismo, la cocina y los viajes",
   };
 
   const links = [
