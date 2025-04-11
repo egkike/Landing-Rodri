@@ -14,7 +14,7 @@ const PersonalLandingPage: React.FC = () => {
   const links = [
     {
       title: "TikTok",
-      url: "https://tiktok.com/@negristh",
+      url: "https://tiktok.com/@rodrigopedalea",
       icon: <AiFillTikTok size={24} />,
     },
     {
